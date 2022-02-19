@@ -1,0 +1,16 @@
+﻿  Source.cpp
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(573,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(634,62): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(717,63): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(753,63): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(565,8): warning C4101: 'angle': unreferenced local variable
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(791,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(824,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(825,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(829,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(830,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(831,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(832,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerScience\CS330 OpenGL\CS330 Milestone\OpenGLSample\Source.cpp(858,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> D:\ComputerScience\CS330 OpenGL\CS330 Milestone\Debug\OpenGLSample.exe
